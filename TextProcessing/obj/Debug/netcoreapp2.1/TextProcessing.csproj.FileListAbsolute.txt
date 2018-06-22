@@ -1,0 +1,11 @@
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp2.1\TextProcessing.deps.json
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp2.1\TextProcessing.runtimeconfig.json
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp2.1\TextProcessing.runtimeconfig.dev.json
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp2.1\TextProcessing.dll
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp2.1\TextProcessing.pdb
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp2.1\TextProcessing.csprojAssemblyReference.cache
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp2.1\TextProcessing.csproj.CoreCompileInputs.cache
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp2.1\TextProcessing.AssemblyInfoInputs.cache
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp2.1\TextProcessing.AssemblyInfo.cs
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp2.1\TextProcessing.dll
+C:\Users\sweet\Source\Repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp2.1\TextProcessing.pdb
